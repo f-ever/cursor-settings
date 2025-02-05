@@ -1,0 +1,38 @@
+disabled: []
+enabled:
+  - id: bierner.color-info
+    uuid: 0f8bd812-5d52-4fff-bd1c-6b0a7ee9cad9
+  - id: cesium.gltf-vscode
+    uuid: 3be122b7-ffdc-439e-bec3-6895b3d00080
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: EditorConfig.EditorConfig
+    uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: fabiospampinato.vscode-todo-plus
+    uuid: 0661e679-8a32-433e-baeb-8980f53edb55
+  - id: fake-cursor.cursor-fake-machine
+    uuid: null
+  - id: jgclark.vscode-todo-highlight
+    uuid: 4b3f0982-ad12-491b-b1b2-098f42c230af
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: michelemelluso.code-beautifier
+    uuid: 8a0c151b-eb13-4bed-9d49-4a252a118a0c
+  - id: miguelsolorio.fluent-icons
+    uuid: 41aac8eb-b4f4-408d-9708-320d033a17f8
+  - id: mrmlnc.vscode-scss
+    uuid: beb68b20-7c55-471c-9b63-3486f9423566
+  - id: MS-CEINTL.vscode-language-pack-zh-hans
+    uuid: e4ee7751-6514-4731-9cdb-7580ffa9e70b
+  - id: naumovs.color-highlight
+    uuid: 121396ad-85a1-45ec-9fd1-d95028a847f5
+  - id: slevesque.shader
+    uuid: 3a63675f-7987-4cff-a411-d4a9568f560c
+  - id: vscode-icons-team.vscode-icons
+    uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
+  - id: Vue.volar
+    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
