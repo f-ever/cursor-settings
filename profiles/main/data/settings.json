@@ -80,5 +80,16 @@
   "typescript.tsserver.experimental.enableProjectDiagnostics": true,
   "typescript.preferGoToSourceDefinition": true,
   "git.confirmSync": false,
-  "git.autofetch": true
+  "git.autofetch": true,
+  "cursor.cpp.enablePartialAccepts": true,
+  "[java]": {
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.defaultFormatter": "Oracle.oracle-java"
+  },
+  "python.defaultInterpreterPath": "C:\\Users\\BD\\AppData\\Local\\Programs\\CASS11 For AutoCAD 2020\\Pycad\\bin\\ipy.exe",
+  "cursor.terminal.usePreviewBox": true,
+  "cursor.composer.collapsePaneInputBoxPills": true,
+  "editor.fontFamily": "等距更纱黑体 SC, Consolas, 'Courier New', monospace",
+  "editor.mouseWheelZoom": true,
+  "terminal.integrated.mouseWheelZoom": true
 }
